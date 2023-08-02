@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my tasks in order to achieve greater success in life
 - 🌱 I’m currently studying as a student in a higher educational institution, in the field of IT. I aspire to be a developer.
